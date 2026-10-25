@@ -1,7 +1,1 @@
-
-abc
-ABC
-Cập nhật main
-Tính năng rebase
-
-HEllO == Xin Chào
+Nội dung ABC
